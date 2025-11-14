@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Sun Layers",
+  "description": "An interactive diagram of the sun's six layers. Hover over each layer to learn more about its properties and role in our solar system.",
+  "requestFramePermissions": []
+}
